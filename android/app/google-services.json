@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "722124002847",
+    "firebase_url": "https://fir-fb692-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-fb692",
+    "storage_bucket": "fir-fb692.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722124002847:android:f32d30c82162f08d77272a",
+        "android_client_info": {
+          "package_name": "com.example.chetchat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp-jhH3Zq2ItrH7FyCshzULYFMijzEt8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
